@@ -17,3 +17,5 @@ O dataset possui informações demográficas relevantes dos clientes, sendo elas
 - Renda: Renda anual autodeclarada em dólares americanos do cliente (USD 35832 Valor mínimo e USD 309364 Valor máximo)
 - Ocupação: 0: desempregado/não qualificado, 1: funcionário qualificado, 2: funcionário altamente qualificado
 - Tamanho do assentamento (tamanho da cidade que o cliente reside baseado na quantidade de pessoas): 0: cidade pequena, 1: cidade média, 2: cidade grande
+
+Fonte: https://www.kaggle.com/datasets/dev0914sharma/customer-clustering/code
